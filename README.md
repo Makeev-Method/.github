@@ -1,123 +1,123 @@
+<div align="center">
+
 # Makeev Method
-One system. Real results.
 
-Makeev Method helps customers choose you - again and again. I build a connected system for SMBs: internal order, clear brand & focused sites, and tailored automations across CRM, payments, messaging, and reporting. Results in weeks, not months.
+**One system. Real results.**
 
-**I do one thing:** make customers choose you - again and again.  
-I build a connected system for your business:
+I do one thing: make customers choose you, again and again.
 
-- **Internal order** - clear goals, sharp messaging, weekly plan
-- **External presence** - brand + focused site/landing that converts
-- **Growth engine** - custom automations across CRM, payments, messaging & reporting
+<a href="https://makeevmethod.co.il/"><img src="https://img.shields.io/badge/Makeev_Method-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+<a href="https://cal.com/vadim-makeev/lets-talk"><img src="https://img.shields.io/badge/Book_a_call-292929?style=for-the-badge&logo=googlecalendar&logoColor=white" alt="Book a call"></a>
+<a href="https://wa.me/972532560272"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+<a href="mailto:contact@makeevmethod.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/vadim-makeev"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
-### Core capabilities & deliverables
-Lead capture & routing • Pipeline setup & status progression • Meeting booking • Quotes & pricing •  
-Post-payment tasks & onboarding • CRM↔Messaging sync (WhatsApp/Email/SMS) • Payment systems & reconciliation •  
-Executive dashboards & alerts • Dynamic services/terms • Landing pages & focused sites
+[English](#english) · [עברית](#עברית)
 
-**Recent outcomes:** ×4 calls/month · +100% site traffic · ROI ×3.8
-
-### Tech stack & integrations
-
-**Core**  
-CRMs: `Monday.com`, `Salesforce`, `HubSpot`, `Pipedrive`, `Airtable`, `ClickUp`, `Zoho`  
-Automation: `Zapier`, `Make.com`, `n8n`  
-Messaging & VoIP: `WhatsApp Business API`, `Green-API`, `Twilio`, `Telegram Bots`, `Kavkom`  
-Payments & Invoicing: `Stripe`, `GreenInvoice`, `Meshulam`, `iCount`, `Hashavshevet`  
-Data & Reporting: `Google Sheets`, `Looker Studio`, `BigQuery`, `Tableau`
-
-<details>
-<summary><strong>Extended platforms & integrations</strong></summary>
-
-**Google ecosystem** - `Google Workspace`, `Gmail`, `Drive`, `Docs`, `Sheets`, `Slides`, `Calendar`, `Forms`, `Contacts`, `Meet`, `Looker Studio`, `BigQuery`, `Analytics`, `Tag Manager`, `Google Tag`, `Search Console`, `Business Profile (GBP)`, `Google Ads`
-
-**Meta ecosystem** - `Facebook`, `Instagram`, `Messenger`, `Threads`, `Meta Business Suite`, `Meta Ads`, `Meta Pixel`, `Conversions API`
-
-**Social & communities** - `LinkedIn`, `X (Twitter)`, `YouTube`, `TikTok`, `Reddit`, `Quora`, `Discord`, `Telegram`, `Medium`, `RSS`
-
-**Web / CMS / e-commerce** - `WordPress`, `Elementor`, `WooCommerce`
-
-**Domains / hosting** - `GoDaddy`, `Hostinger`, `JetServer`
-
-**Infra & version control (as needed)** - `Docker`, `Nginx`, `GitHub`
-
-**Email & marketing** - `Mailchimp`, `ManyChat`, `Rav-Messer (IL)`, `Jotform`
-
-**Docs & knowledge** - `Notion`, `Obsidian`
-
-**Scheduling & booking** - `Cal.com`, `Calendly.com`
-
-**Design & production** - `Canva`, `Figma`, `Envato`, `OBS`, `DaVinci Resolve`
-
-**AI Tools** - `ChatGPT (OpenAI)`, `Gemini (Google)`, `Claude (Anthropic)`, `Grok (xAI)`, `Perplexity AI`, `Copilot (Microsoft)`
-
-**Development & Programming (as needed)** - `HTML`, `CSS`, `JavaScript / TypeScript`, `Node.js`, `Python`, `Java`, `PHP`, `SQL`
-</details>
-
-- 🌐 Site: https://makeevmethod.co.il/  
-- 📅 Book 15 min: https://cal.mymkv.com/makeevmethod/lets-talk  
-- 💬 WhatsApp: https://wa.me/972532560272  
-- ✉️ Email: contact@makeevmethod.com
-
-> Most client work is private. I’ll publish templates/demos as they’re ready.
+</div>
 
 ---
 
-## שיטה אחת. תוצאות אמיתיות - Makeev Method
-**אני עושה דבר אחד: גורם ללקוחות לבחור בך - שוב ושוב.**  
-אני מחבר את העסק למערכת אחת שעובדת:
+<a id="english"></a>
 
-- **סדר פנימי** - יעדים חדים, מסר מדויק ותוכנית שבועית  
-- **נראות חיצונית** - מיתוג ואתר/דף ממוקד שמוביל לצעד הבא  
-- **מנוע לעסק** - אוטומציות מותאמות: CRM, כספים, הודעות, דוחות
+## 🔍 Diagnosis first
 
-### יכולות ותוצרים
-לכידת לידים והפניה • הקמת פייפליין והתקדמות סטטוסים • קביעת פגישות • הצעות מחיר ותמחור •  
-משימות לאחר תשלום / און־בורדינג • סנכרון CRM↔מסרים (WhatsApp/Email/SMS) • מערכות תשלום וחשבונאות •  
-דאשבורדים והתראות הנהלה • שירותים/תנאים דינמיים • דפי נחיתה ואתרים ממוקדים
+Most businesses don't have a marketing problem or a software problem. They have a system problem: leads that fall through the cracks, follow-ups that depend on memory, data spread across five tools, and an owner who does everything by hand.
 
-**תוצאות מהשטח:** פי 4 בשיחות · ‎+100% תנועה · החזר השקעה 3.8×
+So I don't start with a tool. I start by understanding how the business really runs, find the root cause, and only then build. That's the Makeev Method.
 
-### כלים ופלטפורמות
+## 🧩 One connected system
 
-**ליבה**  
-ניהול פרויקטים ו־CRM: `Monday.com`, `Salesforce`, `HubSpot`, `Pipedrive`, `Airtable`, `ClickUp`, `Zoho`  
-אוטומציה: `Zapier`, `Make.com`, `n8n`  
-תקשורת והודעות: `WhatsApp Business API`, `Green-API`, `Twilio`, `Telegram Bots`, `Kavkom`  
-תשלומים והנה"ח: `Stripe`, `GreenInvoice`, `Meshulam`, `iCount`, `Hashavshevet`  
-דאטה ודוחות: `Google Sheets`, `Looker Studio`, `BigQuery`, `Tableau`
+- **Internal order** — clear goals, sharp messaging, a weekly plan the team actually follows
+- **External presence** — a brand and a focused site or landing page that leads to the next step
+- **Growth engine** — campaigns, CRM and automations across sales, payments, messaging and reporting
 
-<details dir="rtl">
-<summary><strong>מורחב - פלטפורמות ואינטגרציות</strong></summary>
-  
-**גוגל** - `Google Workspace`, `Gmail`, `Drive`, `Docs`, `Sheets`, `Slides`, `Calendar`, `Forms`, `Contacts`, `Meet`, `Looker Studio`, `BigQuery`, `Analytics`, `Tag Manager`, `Google Tag`, `Search Console`, `Business Profile (GBP)`, `Google Ads`
+## 🛠️ What I build
 
-**מטא** - `Facebook`, `Instagram`, `Messenger`, `Threads`, `Meta Business Suite`, `Meta Ads`, `Meta Pixel`, `Conversions API`
+Lead capture & routing • Pipeline setup & status progression • Meeting booking • Quotes & pricing •
+Post-payment tasks & onboarding • CRM ↔ WhatsApp / Email / SMS sync • Payments & reconciliation •
+Executive dashboards & alerts • AI agents & chatbots • Custom scrapers & data pipelines •
+Campaigns on Google & Meta • SEO • Landing pages & focused sites • Chrome & WordPress extensions
 
-**רשתות חברתיות** - `LinkedIn`, `X (Twitter)`, `YouTube`, `TikTok`, `Reddit`, `Quora`, `Discord`, `Telegram`, `Medium`, `RSS`
+## 📈 Results from the field
 
-**אתרים ואי־קומרס** - `WordPress`, `Elementor`, `WooCommerce`
+- **Up to 6x return on ad spend**, with media budgets of up to ₪250K a year per client
+- **4x inbound calls** per month · **+100% site traffic** · **15% CTR** and **18% conversion rate** on top campaigns
+- **4x faster delivery** for an agency, after automating its workflows
 
-**דומיינים ואחסון** - `GoDaddy`, `Hostinger`, `JetServer`
+## ⚙️ How I work
 
-**תשתיות וניהול גרסאות (לפי צורך)** - `Docker`, `Nginx`, `GitHub`
+1. **Diagnose** — map the real process, the numbers, and where it leaks
+2. **Design** — data first: schemas, flows and how every tool connects
+3. **Ship the MVP** — something working in weeks, not months
+4. **Run it** — self-hosted, monitored and secured, fixed when it breaks
+5. **Hand it over** — documentation and training until the team runs it without me
 
-**דיוור ושיווק** - `Mailchimp`, `ManyChat`, `Rav-Messer (IL)`, `Jotform`
+I also run my own business on what I build: a custom CRM and operating system on my own server, with automation, databases, link tracking, monitoring and local AI models.
 
-**ניהול ידע ומסמכים** - `Notion`, `Obsidian`
+## 🧰 Stack & integrations
 
-**תיאומים ופגישות** - `Cal.com`, `Calendly.com`
+| Area | Tools |
+|---|---|
+| 📊 **CRM & Work Management** | monday.com (certified expert · Top 10% worldwide) · Salesforce · HubSpot · Pipedrive · Airtable · ClickUp · Zoho · Priority |
+| ⚙️ **Automation** | n8n (self-hosted) · Make · Zapier · ManyChat · Webhooks |
+| 💬 **Messaging & VoIP** | WhatsApp Business API · Green-API · Twilio · Telegram Bots · Kavkom |
+| 💳 **Payments & Invoicing** | Stripe · Morning (Green Invoice) · Meshulam · iCount · Hashavshevet |
+| 🤖 **AI** | Claude · GPT · Gemini · MCP · Custom agents · Local LLMs (Qwen, GPT-OSS) |
+| 📈 **Marketing & Analytics** | Google Ads · Meta Ads · SEO · GA4 · GTM · Google Business Profile |
+| 🗄️ **Data & Reporting** | SQL · Postgres · BigQuery · Looker Studio · Tableau · Power BI · Google Sheets · Excel |
+| 🕷️ **Scraping** | Custom Python scrapers · Apify |
+| 💻 **Code** | JavaScript · Node.js · Next.js (React) · Python · Java · PHP · R · HTML · CSS · Liquid |
+| 🛒 **Web & E-commerce** | WordPress · Elementor · WooCommerce · Shopify · WIX · GrapesJS |
+| 🖥️ **Infrastructure** | Linux (Ubuntu) · Docker · nginx · Tailscale · Grafana · Prometheus · Shlink · Cal.com (self-hosted) |
 
-**עיצוב והפקה** - `Canva`, `Figma`, `Envato`, `OBS`, `DaVinci Resolve`
+Most client work is private. Templates and demos will be published here as they're ready.
 
-**בינה מלאכותית** - `ChatGPT (OpenAI)`, `Gemini (Google)`, `Claude (Anthropic)`, `Grok (xAI)`, `Perplexity AI`, `Copilot (Microsoft)`
+---
 
-**פיתוח ושפות (לפי צורך)** - `HTML`, `CSS`, `JavaScript / TypeScript`, `Node.js`, `Python`, `Java`, `PHP`, `SQL`
-</details>
+<div dir="rtl">
 
-- 🌐 אתר: https://makeevmethod.co.il/  
-- 📅 קובעים 15 דק׳: https://cal.mymkv.com/makeevmethod/lets-talk  
-- 💬 וואטסאפ: https://wa.me/972532560272  
-- ✉️ מייל: contact@makeevmethod.com
+<a id="עברית"></a>
 
-> רוב העבודה עם לקוחות היא חסויה. אפרסם תבניות ודמואים ברגע שיהיו מוכנים.
+## 🔍 קודם אבחון
+
+לרוב העסקים אין בעיית שיווק או בעיית תוכנה. יש להם בעיית מערכת: לידים שנופלים בין הכיסאות, מעקב שתלוי בזיכרון, נתונים שמפוזרים בחמישה כלים, ובעל עסק שעושה הכל ביד.
+
+אז אני לא מתחיל מכלי. אני מתחיל מלהבין איך העסק באמת עובד, מוצא את שורש הבעיה, ורק אז בונה. זו שיטת מקייב.
+
+## 🧩 מערכת אחת מחוברת
+
+- **סדר פנימי** — יעדים חדים, מסר מדויק ותוכנית שבועית שהצוות באמת עובד לפיה
+- **נראות חיצונית** — מיתוג ואתר או דף נחיתה ממוקד שמוביל לצעד הבא
+- **מנוע צמיחה** — קמפיינים, CRM ואוטומציות: מכירות, כספים, הודעות ודוחות
+
+## 🛠️ מה אני בונה
+
+לכידת לידים והפניה • הקמת פייפליין והתקדמות סטטוסים • קביעת פגישות • הצעות מחיר ותמחור •
+משימות לאחר תשלום ואונבורדינג • סנכרון CRM עם וואטסאפ, מייל ו-SMS • מערכות תשלום והתאמות •
+דשבורדים והתראות הנהלה • סוכני AI וצ'טבוטים • סקרייפרים ותהליכי דאטה •
+קמפיינים ב-Google וב-Meta • SEO • דפי נחיתה ואתרים ממוקדים • תוספי Chrome ו-WordPress
+
+## 📈 תוצאות מהשטח
+
+- **החזר של עד פי 6 על הוצאות הפרסום**, בתקציבי מדיה של עד 250 אלף ₪ בשנה ללקוח
+- **פי 4 בשיחות נכנסות** בחודש · **גידול של 100% בתנועה** · **CTR של 15%** ו**יחס המרה של 18%** בקמפיינים המובילים
+- **אספקה מהירה פי 4** בסוכנות, אחרי אוטומציה של תהליכי העבודה
+
+## ⚙️ איך אני עובד
+
+1. **אבחון** — מיפוי התהליך האמיתי, המספרים, ואיפה דולף
+2. **תכנון** — קודם הדאטה: מבנה נתונים, תהליכים ואיך כל כלי מתחבר
+3. **MVP** — משהו שעובד תוך שבועות, לא חודשים
+4. **הפעלה** — על שרת משלי, עם ניטור ואבטחה, ותיקון כשמשהו נשבר
+5. **העברה** — תיעוד והדרכה עד שהצוות מפעיל את המערכת לבד
+
+גם העסק שלי רץ על מה שאני בונה: CRM ומערכת הפעלה עסקית שבניתי, על שרת משלי, עם אוטומציות, בסיסי נתונים, מעקב קישורים, ניטור ומודלי AI מקומיים.
+
+## 🧰 כלים ופלטפורמות
+
+הרשימה המלאה מופיעה בטבלה למעלה: CRM וניהול עבודה, אוטומציה, הודעות וטלפוניה, תשלומים והנהלת חשבונות, AI, שיווק ואנליטיקה, דאטה ודוחות, סקרייפינג, קוד, אתרים ואיקומרס, ותשתיות.
+
+רוב העבודה עם לקוחות חסויה. תבניות ודמואים יתפרסמו כאן ברגע שיהיו מוכנים.
+
+</div>
